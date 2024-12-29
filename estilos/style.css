@@ -13,7 +13,7 @@
 }
 
 body, html {
-   background-color: #5f2c82;
+   background-color: rgba(12, 168, 203, 0.999);
    width: 100vw;
    height: 100vh;
 }
